@@ -2,6 +2,12 @@
 
 - 🌱 I’m currently looking for a job as a Web Developer in South Korea.
 
+<!--### : Tech Stack
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sosbp)](https://github.com/sosbp) --!>
+
+
+
 <!--
 - 🔭 I’m currently finding job
 - 🌱 I’m currently learning React and Node.js
