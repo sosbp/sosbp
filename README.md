@@ -1,6 +1,6 @@
 ### 안녕하세요👋 ㅡ Welcome to my GitHub!
 
-- 🌱 I’m currently looking for a job as a Web Developer in South Korea.
+- 🌱 I’m currently studying as a Web Developer in South Korea.
 
 <!--### : Tech Stack
 
